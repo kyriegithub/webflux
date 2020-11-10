@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 /**
  * @author caojianyi@dxy.cn
  * @date 2020-11-03 23:03
- * @Description
+ * @Description  通过mvc开发webflux->过度方案
  */
 @RestController
 @RequestMapping("/user")
